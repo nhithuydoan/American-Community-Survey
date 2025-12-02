@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-R-based data analysis project examining American Community Survey data to analyze earnings, educational outcomes, and gender disparities across different majors and occupations from 2012-2019.
+R-based data analysis project examining American Community Survey data to analyze earnings, educational outcomes, and gender disparities across different majors and occupations from 2012-2019.This is done as part of the class Statistical Computing with R 234
 
 ## Research Questions
 
